@@ -4,11 +4,11 @@ Simple is a static blog generator with a single static page. You can write you b
 
 ##Demo
 
-[Simple](http://isnowfy.github.io/simple)
+[Simple](http://RussellWatson.github.io/shenple)
 
-[Blog demo](http://isnowfy.github.io/)
+[Blog demo](http://RussellWatson.github.io/)
 
-[Lightweight markdown editor](http://isnowfy.github.io/simple/editor.html)
+[Lightweight markdown editor](http://RussellWatson.github.io/shenple/editor.html)
 
 ##Usage
 
