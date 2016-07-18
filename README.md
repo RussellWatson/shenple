@@ -1,10 +1,10 @@
-#Simple
+#Shenple
 
-Simple is a static blog generator with a single static page. You can write you blog online, and it will generate static html files at your repo named `username.github.io` which is supported by [github pages](https://pages.github.com)
+Shenple is a static blog generator with a single static page. You can write you blog online, and it will generate static html files at your repo named `username.github.io` which is supported by [github pages](https://pages.github.com)
 
 ##Demo
 
-[Simple](http://RussellWatson.github.io/shenple)
+[Shenple](http://RussellWatson.github.io/shenple)
 
 [Blog demo](http://RussellWatson.github.io/)
 
